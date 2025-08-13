@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://dipc0rw8va6ak"]
+
+[ext_resource type="Script" uid="uid://b0gws005oi5ov" path="res://Script/Cell.gd" id="1_1x32t"]
+
+[node name="Cell" type="Node2D"]
+script = ExtResource("1_1x32t")
+
+[node name="Polygon2D" type="Polygon2D" parent="."]
+uv = PackedVector2Array(237, 15)

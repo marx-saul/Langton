@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bnc5pu0you6on"]
+
+[ext_resource type="Script" uid="uid://o8r56pytk5iu" path="res://Script/Table.gd" id="1_q50yl"]
+
+[node name="Table" type="Node2D"]
+script = ExtResource("1_q50yl")
